@@ -1,6 +1,3 @@
-
-<!-- start -->
-
 ## Hey 👋 I'm Long
 
 💡 Freelance developer based in Vietnam. I build web and mobile apps for small businesses, and I care about software that people actually use every day: fast to open, simple to run, easy to maintain.
@@ -24,8 +21,6 @@
 
 📫 **Let's talk**: have a project in mind? Reach me at **longtran.cmg@gmail.com**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<username>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<linkedin-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Longchuck)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/longtran47/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longtran.cmg@gmail.com)
-
-<!-- end -->
