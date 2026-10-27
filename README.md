@@ -7,8 +7,6 @@
 - **Consulting**: picking the right architecture and stack before the first line of code
 - **Maintenance**: keeping existing systems alive, secure and up to date
 
-🚀 **What I'm building**: a learning platform for Android TV that combines a Flutter shell with interactive 3D mini apps in Unity (virtual science labs, quizzes, AI tutoring), built to ship on dedicated classroom hardware.
-
 🧰 **Stack I work with**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
